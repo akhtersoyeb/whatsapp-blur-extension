@@ -8,3 +8,11 @@
 [data-testid='cell-frame-container'] img {
   filter: blur(5px)
 }
+
+.CzM4m {
+  filter: blur(5px);
+}
+
+.CzM4m:hover {
+  filter: none;
+}
