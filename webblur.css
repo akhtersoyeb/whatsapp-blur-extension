@@ -1,0 +1,10 @@
+.vQ0w7 {
+  background-color: lightgray;
+  width: 300px;
+  border-radius: 10px;
+  filter: blur(5px);
+}
+
+[data-testid='cell-frame-container'] img {
+  filter: blur(5px)
+}
